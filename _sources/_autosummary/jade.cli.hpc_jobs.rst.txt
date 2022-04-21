@@ -1,0 +1,23 @@
+jade.cli.hpc\_jobs
+==================
+
+.. automodule:: jade.cli.hpc_jobs
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+

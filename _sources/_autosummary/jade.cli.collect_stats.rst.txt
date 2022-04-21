@@ -1,0 +1,23 @@
+jade.cli.collect\_stats
+=======================
+
+.. automodule:: jade.cli.collect_stats
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+

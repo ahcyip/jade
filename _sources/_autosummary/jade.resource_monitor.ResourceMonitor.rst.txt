@@ -1,0 +1,35 @@
+jade.resource\_monitor.ResourceMonitor
+======================================
+
+.. currentmodule:: jade.resource_monitor
+
+.. autoclass:: ResourceMonitor
+   :members:
+   :show-inheritance:
+   :inherited-members:
+   :special-members: __call__, __add__, __mul__
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~ResourceMonitor.get_cpu_stats
+      ~ResourceMonitor.get_disk_stats
+      ~ResourceMonitor.get_memory_stats
+      ~ResourceMonitor.get_network_stats
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+   
+      ~ResourceMonitor.DISK_STATS
+      ~ResourceMonitor.NET_STATS
+      ~ResourceMonitor.name
+   
+   
